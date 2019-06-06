@@ -1,0 +1,68 @@
+body {
+
+}
+h1 {
+	text-shadow: 2px 1px lightgrey;
+	text-align: center;
+
+}
+
+p {
+	background-color: ;
+	margin-left: 60px;
+	margin-right: 50px;
+	font-size: 15pt;
+	font-weight: 300;
+	line-height: 2;
+	font-family: "Lato", sans-serif;
+	text-align: center
+}
+#titoli {
+	margin-left: 60px;
+	font-size: 1.30em;
+	text-transform: uppercase;
+	color: #e5474b;
+	font-weight: 700;
+	line-height: 2;
+	font-family: "Lato", sans-serif;
+	letter-spacing: inherit;
+	text-align: center
+}
+
+
+/* The navbar container */
+.topnav {
+	margin-left: 10%;
+	margin-right: 10%;
+    overflow: hidden;
+    background-color: #333;
+}
+
+/* Navbar links */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	margin-left: 120px
+
+}
+
+/* Links - change color on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.topnav img {
+	width: 20px;
+	height: 18px;
+	float: left;
+}
+#about, ul {
+	text-align: left;
+	margin-left: 50px;
+}
+
+
